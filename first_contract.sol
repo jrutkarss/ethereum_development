@@ -4,4 +4,5 @@ pragma solidity ^0.8.26;
 
 contract HelloWorld {
     string public greet = "Hello World!";
+    string private key = "fgbxvjfxhgx vbcxvj bvxvjdbhdhvbjdxbvhjdjv jdvdvndvhdvhjd vjdvhjbkdsbvhjbdvj bvj dbv vibdvidsjvbvb";
 }
